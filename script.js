@@ -12,7 +12,7 @@ const numButtons = document.querySelectorAll('.num')
 
 let input = '';
 let num1 = 0;
-let num2;
+let num;
 let operator;
 let lastButtonPressedIsEquals
 
